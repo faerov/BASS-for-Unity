@@ -14,3 +14,5 @@ Inside the BASS folder, create folders named x86 and x86_64.
 Open the unpacked bass24 folder, take bass.dll from there, and paste it into the created x86 folder.
 
 Open the unpacked bass24 folder, go to the x64 folder, take bass.dll from there, and paste it into the created x86_64 folder.
+
+You can study bass.h and create new functions.
